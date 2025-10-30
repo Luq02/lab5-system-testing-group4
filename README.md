@@ -2,6 +2,6 @@
 System testing lab 
 
 Group Members:
-Abdulla Twair (	60307682)
-Luqman Shahrul (60106853)
-Nasir Baqi (60106405)
+Abdulla Twair (	60307682) Tester & Developer
+Luqman Shahrul (60106853) Tester & Developer
+Nasir Baqi (60106405) Tester & Developer
